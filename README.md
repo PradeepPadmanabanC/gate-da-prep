@@ -7,10 +7,12 @@ See the full GATE 2026 DA syllabus here: [syllabus.md](syllabus.md)
 
 ### Topics Covered
 
-1. Probability and Statistics
-2. Linear Algebra
-3. Calculus and Optimization
-4. Programming, Data Structures and Algorithms
-5. Database Management and Warehousing
-6. Machine Learning
-7. AI
+| # | Subject | Link |
+|---|---------|------|
+| 1 | Probability and Statistics | [📂 Notes & Code](01_Probability_and_Statistics/README.md) |
+| 2 | Linear Algebra | [📂 Notes & Code](02_Linear_Algebra/README.md) |
+| 3 | Calculus and Optimization | [📂 Notes & Code](03_Calculus_and_Optimization/README.md) |
+| 4 | Programming, Data Structures and Algorithms | [📂 Notes & Code](04_Programming_Data_Structures_and_Algorithms/README.md) |
+| 5 | Database Management and Warehousing | [📂 Notes & Code](05_Database_Management_and_Warehousing/README.md) |
+| 6 | Machine Learning | [📂 Notes & Code](06_Machine_Learning/README.md) |
+| 7 | Artificial Intelligence | [📂 Notes & Code](07_Artificial_Intelligence/README.md) |
